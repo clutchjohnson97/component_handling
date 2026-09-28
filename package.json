@@ -1,0 +1,22 @@
+{
+  "name": "pci-component-handling",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Precast component handling calculator — PCI Design Handbook Chapter 8 (flat-panel stripping, tilt-up erection, lifting insert capacity)",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "deploy": "gh-pages -d dist"
+  },
+  "dependencies": {
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^4.3.1",
+    "gh-pages": "^6.1.1",
+    "vite": "^5.4.0"
+  }
+}
